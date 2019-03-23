@@ -20,3 +20,14 @@ public class SimpleProgram {
 	 */
 
 }
+ 
+class SimpleProgram2 {
+
+	
+	/*
+	 * Ejemplo de comentario 
+	 * en multiples lineas
+	 * 
+	 */
+
+}

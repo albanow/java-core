@@ -1,13 +1,16 @@
 package packageb;
 
-import packagea.ClassA;
 
 public class ClassB {
-
-	public static void main(String[] args) {
-		ClassA a;
-		System.out.println("Works");
-
+	
+	int valorA;
+	int valorB;
+	public ClassB(int a, int b) {
+		valorA = a;
+		valorB = b;
 	}
-
+	
+	public int metodo() {
+		return 99;
+	}
 }
